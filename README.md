@@ -1,1 +1,1 @@
-# Stock-Market-Price-zprediction-using-Machine-Learning
+# Stock-Market-Price-prediction-using-Machine-Learning
